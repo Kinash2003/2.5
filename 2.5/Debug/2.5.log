@@ -1,0 +1,6 @@
+﻿  2.5.cpp
+  Date.cpp
+  Triad.cpp
+  Создание кода...
+D:\Lab-2\2.5\2.5\Date.cpp(40): warning C4715: Date::Сomparison: значение возвращается не при всех путях выполнения
+  2.5.vcxproj -> D:\Lab-2\2.5\Debug\2.5.exe

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest2.5.cpp
+D:\Lab-2\2.5\2.5\Date.cpp(40): warning C4715: Date::Сomparison: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Lab-2\2.5\Debug\UnitTest2.5.lib и объект D:\Lab-2\2.5\Debug\UnitTest2.5.exp
+  UnitTest2.5.vcxproj -> D:\Lab-2\2.5\Debug\UnitTest2.5.dll
